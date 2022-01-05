@@ -1,0 +1,5 @@
+{
+  "entrypoint": "net.hotslicer.pancake.PancakeExtension",
+  "name": "HotPancake",
+  "version": "1.0"
+}
